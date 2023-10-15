@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DPA202302ParcialCaso0222101571.Data;
-
+//Completo
 namespace DPA202302ParcialCaso0222101571.Controllers
 {
     [Route("api/[controller]")]
